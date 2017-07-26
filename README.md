@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/release/php-enspired/levenshteinable.svg)  ![](https://img.shields.io/badge/PHP-7.0-blue.svg?colorB=8892BF)  ![](https://img.shields.io/badge/license-GPL_3.0_only-blue.svg)
+![](https://img.shields.io/github/release/php-enspired/levenshteinable.svg)  ![](https://img.shields.io/badge/PHP-4.0-blue.svg?colorB=8892BF)  ![](https://img.shields.io/badge/license-GPL_3.0_only-blue.svg)
 
 Levenshteinable
 ===============
@@ -34,10 +34,12 @@ echo $dt->fomrat('r');
 
 // outputs something like  "Wed, 26 Jul 2017 03:13:44 +0000"
 // GOLDEN
-```​
+```
 
 What's that you say??  WHAT ABOUT CLASSES?
+
 ```php
+<?php
 
 use at\levenshteinable\Levenshteinator;
 
