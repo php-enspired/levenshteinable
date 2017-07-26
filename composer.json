@@ -1,0 +1,20 @@
+{
+  "name": "php-enspired/levenshteinable",
+  "description": "It's hard to spell on purpose",
+  "type": "library",
+  "homepage": "http://php.enspi.red",
+  "license": "none",
+  "authors": [
+    {
+      "name": "Adrian",
+      "email": "adrian@enspi.red",
+      "homepage": "http://enspi.red"
+    }
+  ],
+  "support": {
+    "irc": "irc://irc.freenode.net/php-enspired"
+  },
+  "autoload": {
+    "psr-4": { "at\\levenshteinable\\": "/" }
+  }
+}
