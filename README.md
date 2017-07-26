@@ -45,7 +45,7 @@ use at\levenshteinable\Levenshteinator;
 
 Levenshteinator::register();
 
-$dt = new LevenshternableDateTiem('now');
+$dt = new DateTiem('now');
 echo $dt->fomrat('r');
 
 // outputs something like  "Wed, 26 Jul 2017 03:13:44 +0000"

@@ -20,11 +20,11 @@ declare(strict_types = 1);
 
 namespace at\levenshteinable;
 
+use at\levenshteinable\Levenshteinable;
+
 /**
  * forgot how to spell the name of that class?
  * just type in something close, you're golden!
- *
- * credit to profsimm for the idea.
  */
 class Levenshteinator {
 
@@ -37,6 +37,8 @@ class Levenshteinator {
     foreach (get_declared_classes() as $class) {
       $levenshteins[$class] = levenshtein($class, $name);
     }
-    class_alias(array_search(min($levenshteins), $levenshteins), $name);
+
+    $class = array_search(min($levenshteins), $levenshteins);
+    eval("class {$name} extends {$class} { use Levenshteinable; }");
   }
 }
