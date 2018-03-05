@@ -5,15 +5,10 @@ Levenshteinable
 
 "It's hard to spell on purpose"
 
-dependencies
-------------
-
-Requires php 4.0.1 or later.
-
 installation
 ------------
 
-Recommended installation method is via [Composer](https://getcomposer.org/): simply `composer require php-enspired/levenshteinable`.
+Recommended installation method is not to install.
 
 usage example
 -------------
