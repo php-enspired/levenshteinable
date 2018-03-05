@@ -1,5 +1,3 @@
-![](https://img.shields.io/github/release/php-enspired/levenshteinable.svg)  ![](https://img.shields.io/badge/PHP-4.0-blue.svg?colorB=8892BF)  ![](https://img.shields.io/badge/license-none-blue.svg)
-
 Levenshteinable
 ===============
 
