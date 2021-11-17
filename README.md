@@ -6,7 +6,7 @@ Levenshteinable
 installation
 ------------
 
-Recommended installation method is not to install.
+Recommended installation method is to not install.
 
 usage example
 -------------
