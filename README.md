@@ -3,11 +3,6 @@ Levenshteinable
 
 "It's hard to spell on purpose"
 
-installation
-------------
-
-Recommended installation method is to not install.
-
 usage example
 -------------
 
