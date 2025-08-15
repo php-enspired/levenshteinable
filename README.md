@@ -44,4 +44,4 @@ echo $dt->fomrat('r');
 contributing or getting help
 ----------------------------
 
-I'm on [Freenode at `#php-enspired`](http://webchat.freenode.net?channels=%23php-enspired&uio=d4), or open an issue [on github](https://github.com/php-enspired/util/issues).  Feedback is welcomed as well.
+I'm on [Libera at `#php-enspired`](http://web.libera.chat%23php-enspired), or open an issue [on github](https://github.com/php-enspired/util/issues).  Feedback is welcomed as well.
